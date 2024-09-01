@@ -3,4 +3,4 @@ const nickname = "Lyn";
 console.log(`Hello, ${name}!`);
 
 
-console.log('Kumusta, ${surname}! ')
+console.log('Kumusta, ${nickname}! ')
